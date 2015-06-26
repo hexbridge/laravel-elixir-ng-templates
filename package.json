@@ -1,0 +1,10 @@
+{
+  "name": "laravel-elixir-ng-templates",
+  "version": "0.1.0",
+  "description": "Laravel Elixir AngularJS Templates",
+  "main": "ng-templates.js",
+  "dependencies": {
+    "gulp-angular-templatecache": "^1.6.0",
+    "laravel-elixir": "^2.0.0"
+  }
+}
