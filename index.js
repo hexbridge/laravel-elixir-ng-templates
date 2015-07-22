@@ -16,6 +16,8 @@ elixir.extend('ngTemplates', function(source, output, options) {
       .pipe(gulp.dest(output));
   });
 
+  this.registerWatcher('ng-templates', source);
+
   return this.queueTask('ng-templates');
 
 });
