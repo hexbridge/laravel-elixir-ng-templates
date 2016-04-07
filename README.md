@@ -53,5 +53,5 @@ elixir(function(mix) {
 ```
 ## TODO
 
-- [ ] watch
+- [x] watch
 - [ ] sourcemaps (?)
